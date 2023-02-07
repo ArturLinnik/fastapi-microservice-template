@@ -1,6 +1,4 @@
-![BemyVega Logo](./{{cookiecutter.project_name}}/docs/bemyvega-logo.png?raw=true "BemyVega Logo")
-
-# Microservice Template
+# Fastapi Microservice Template
 
 This is a template for creating microservices with `FastAPI`.
 

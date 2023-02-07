@@ -1,5 +1,3 @@
-![BemyVega Logo](./docs/bemyvega-logo.png?raw=true "BemyVega Logo")
-
 # {{cookiecutter.project_name}}
 
 {{cookiecutter.project_description}}
