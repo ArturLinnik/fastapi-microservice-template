@@ -1,0 +1,8 @@
+{
+    "project_name": "example-project-name",
+    "project_version": "0.0.1",
+    "project_description": "Example microservice description",
+    "project_author_name": "John Doe",
+    "project_author_email": "john@doe.com",
+    "ms_name": "example-microservice-name"
+}
